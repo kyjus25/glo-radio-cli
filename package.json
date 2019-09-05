@@ -1,0 +1,16 @@
+{
+  "name": "glo-radio-cli",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@axosoft/glo-sdk": "~1.0.7",
+    "express": "~4.17.1",
+    "request": "~2.88.0"
+  }
+}

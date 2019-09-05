@@ -1,0 +1,23 @@
+# WebStorm
+.idea/
+
+# Netbeans
+nbproject/
+
+# Mac OS X
+.DS_Store
+.Spotlight-V100
+.Trashes
+
+# NPM
+node_modules/
+npm-debug.log
+
+# Libraries
+src/libs/
+
+# Config
+config.json
+
+# Uploads
+image.jpg
