@@ -5,7 +5,6 @@ const GloSDK = require('@axosoft/glo-sdk');
 
 module.exports = {
   setCard: function (boardId, cardId, columnId, title, videoId, attachmentId) {
-    console.log(attachmentId);
     const card = {
       name: title,
       column_id: columnId,
